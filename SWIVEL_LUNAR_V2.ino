@@ -82,7 +82,7 @@ void sorting(String color) {
   } else {
     binIndex = 3;
   }
-// starting position
+// lowers arm at starting position
   moveArm(PICKUP_POS[0], SWIVEL_PICKUP);
   claw.write(CLAW_CLOSED);
   delay(1000);
@@ -96,6 +96,6 @@ void sorting(String color) {
   delay(1000);
   // raises arm
   moveArm(PICKUP_POS[1], SWIVEL_BIN_POSITIONS[binIndex]);
-  // returns to starting position
+  // returns to starting swivel position
   moveArm(PICKUP_POS[1], SWIVEL_PICKUP);
 }
