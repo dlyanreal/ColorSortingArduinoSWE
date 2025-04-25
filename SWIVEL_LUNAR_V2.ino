@@ -19,7 +19,6 @@ const int CLAW_OPEN = 100;
 const int CLAW_CLOSED = 50;
 
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(9600);
   swivel.attach(10);
   joint2.attach(5);
@@ -36,7 +35,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   String detectedColor = readColor();
   sorting(detectedColor);
   delay(1997);
@@ -82,7 +80,7 @@ void sorting(String color) {
   } else {
     binIndex = 3;
   }
-// lowers arm at starting position
+  // lowers arm at starting position
   moveArm(PICKUP_POS[0], SWIVEL_PICKUP);
   claw.write(CLAW_CLOSED);
   delay(1000);
