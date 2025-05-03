@@ -3,7 +3,7 @@ Project with the Society of Women Engineers for a Color-Sorting Arduino Robotic 
 
 By: Dylan Berens, Asheeyana Ahmed, Tâm Phan, Kelley Greer, Bernadette de Lara, Bethia Alegado
 
-As a Technical Officer representing Cougar AI, I served as the programming expert for all 5 groups projects for the Society of Women Engineers in Spring 2025.
+As a Technical Officer representing Cougar AI, I served as the programming expert for all 5 groups' projects for the Society of Women Engineers in Spring 2025.
 
 The Color-Sorting Arduino Robotic Arm was the main project, and I collaborated with Mechanical and Electrical Engineers to synthesize software and hardware, learning C++ outside of my classes in order to deliver the successful final product of a functioning, color-differentiating and sorting robotic arm, which earned People's Choice for Best Project.
 
