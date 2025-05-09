@@ -12,5 +12,3 @@ Color detection was handled by a TCS3200, with the S2 and S3 pins' outputs being
 The project used an Arduino Nano, a breadboard, 3D printed parts for the robotic arm, claw and swivel, chopsticks, male-to-male, female-to-female and female-to-male electrical wiring, and I used the Arduino IDE for the ease of implementation of the written code.
 
 The mechanical engineering was done by Asheeyana Ahmed, and the project itself was very engaging as the process of troubleshooting issues (electrical, programming, mechanical) challenged my previous programming experience by nature of having to consider a wider scope of factors that influenced the final behavior rather than strictly code. 
-
-This project solidifies my resolve to collaborate and contribute to underrepresented groups such as women in being involved in STEM, because I found academic solace as I became increasingly involved in computer science and I would like to extend that opportunity to find direction and purpose to any who are interested in STEM.
